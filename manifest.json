@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "short_name": "DuxNotes",
+  "name": "DuxNotes - Simply a minimal note taking app",
+  "author": "Anuran Roy",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "DuxNotes"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
