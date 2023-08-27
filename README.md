@@ -1,5 +1,7 @@
 # DuxNotes New Tab Extension for Chromium-based browsers
 
+![GitHub all releases](https://img.shields.io/github/downloads/anuran-roy/duxnotes-newtab/total)
+
 A super-minimal, flat-design notes keeper with WYSIWYG Markdown support - right on your New Tab Page in Chrome!
 
 ## Setup Instructions
