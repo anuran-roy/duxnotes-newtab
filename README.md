@@ -1,3 +1,5 @@
+# DuxNotes New Tab Extension for Chromium-based browsers
+
 A super-minimal, flat-design notes keeper with WYSIWYG Markdown support - right on your New Tab Page in Chrome!
 
 ## Setup Instructions
